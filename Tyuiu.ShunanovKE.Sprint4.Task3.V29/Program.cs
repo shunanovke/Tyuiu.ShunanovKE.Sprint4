@@ -42,7 +42,7 @@ namespace Tyuiu.ShunanovKE.Sprint4.Task3.V29
                 {
                     Console.Write(array[i, j] + ", ");
                 }
-                Console.WriteLine("\b");
+                Console.WriteLine();
             }
 
             Console.WriteLine("***************************************************************************");
